@@ -14,9 +14,14 @@
 
     <string name="our_menu">Our menu</string>
     <string name="antojitos">Antojitos</string>
-    <string name="specialties">Specialties</string>
-    <string name="combinations">Combinations</string>
+    <string name="specialties">Especialidades</string>
+    <string name="combinations">Combinaciones</string>
     <string name="tortas">Tortas</string>
-    <string name="soups">Soups</string>
+    <string name="soups">Sopas</string>
     <string name="drinks">Drinks</string>
+
+    <string name="prod_name">Quesadillas</string>
+    <string name="prod_desc">Descripción del producto</string>
+    <string name="prod_price">$5.00</string>
+
 </resources>
